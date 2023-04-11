@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working as Dentist
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
-
-- 👨‍💻 More at 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node, React
 
 <!--
 
